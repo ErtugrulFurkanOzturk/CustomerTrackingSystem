@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\Customerfollowingsystem.API\Customerfollowingsystem.API\bin\Debug\netcoreapp2.0\Customerfollowingsystem.API.deps.json
+C:\Users\pc\source\repos\Customerfollowingsystem.API\Customerfollowingsystem.API\bin\Debug\netcoreapp2.0\Customerfollowingsystem.API.runtimeconfig.json
+C:\Users\pc\source\repos\Customerfollowingsystem.API\Customerfollowingsystem.API\bin\Debug\netcoreapp2.0\Customerfollowingsystem.API.runtimeconfig.dev.json
+C:\Users\pc\source\repos\Customerfollowingsystem.API\Customerfollowingsystem.API\bin\Debug\netcoreapp2.0\Customerfollowingsystem.API.dll
+C:\Users\pc\source\repos\Customerfollowingsystem.API\Customerfollowingsystem.API\obj\Debug\netcoreapp2.0\Customerfollowingsystem.API.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Customerfollowingsystem.API\Customerfollowingsystem.API\obj\Debug\netcoreapp2.0\Customerfollowingsystem.API.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Customerfollowingsystem.API\Customerfollowingsystem.API\obj\Debug\netcoreapp2.0\Customerfollowingsystem.API.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Customerfollowingsystem.API\Customerfollowingsystem.API\obj\Debug\netcoreapp2.0\Customerfollowingsystem.API.AssemblyInfo.cs
+C:\Users\pc\source\repos\Customerfollowingsystem.API\Customerfollowingsystem.API\bin\Debug\netcoreapp2.0\Customerfollowingsystem.API.pdb
+C:\Users\pc\source\repos\Customerfollowingsystem.API\Customerfollowingsystem.API\obj\Debug\netcoreapp2.0\Customerfollowingsystem.API.dll
+C:\Users\pc\source\repos\Customerfollowingsystem.API\Customerfollowingsystem.API\obj\Debug\netcoreapp2.0\Customerfollowingsystem.API.pdb
